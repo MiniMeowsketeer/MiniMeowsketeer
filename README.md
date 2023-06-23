@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MiniMeowsketeer
-- 👀 I’m interested in ARK DevKit and Unreal Engine
-- 🌱 I’m currently learning how to mod ARK Survival Evolved
+- 👀 I’m interested in Unreal Engine, RedM, and UI/UX
+- 🌱 I’m currently learning about RedM scripts
 <!--- - 👀 I’m interested in ARK DevKit and Unreal Engine
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
